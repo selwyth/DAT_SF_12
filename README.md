@@ -51,13 +51,17 @@ Tentative Course Outline
 	- [Plotting Linear Models using Seaborn](http://stanford.edu/~mwaskom/software/seaborn/tutorial/quantitative_linear_models.html)
 	- [Why ANOVA and Linear Regression are the Same Analysis](http://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-analysis/)
 	- [Linear Regresion and ANOVA](http://www.math.smith.edu/r/excerpt-4.pdf) (Examples in R)
-10. Project Elevator Pitches
-11. Logistic Regression and Generlized Linear Models
+10. Logistic Regression and Generlized Linear Models
 	- [Logistic Regression in Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html)
-12. Time Series Analysis & Midterm Review
+	- [Explaining Odds Ratios](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)
+11. Project Elevator Pitches
+	- See _Student Project Repos_ below
+12. Naïve Bayes, Cross Validation, ROC, AUC & Midterm Review
+	- [Receiver operating characteristic](http://en.wikipedia.org/wiki/Receiver_operating_characteristic) (wikipedia article)
+	- [Receiver Operating Characteristic (ROC)](http://scikit-learn.org/stable/auto_examples/plot_roc.html) (scikit-learn documentation)
 13. Principal Components Analysis
 	- [PCA and other Decomposition Examples in scikit-learn](http://scikit-learn.org/stable/auto_examples/index.html#decomposition)
-14. Text Mining & Naïve Bayes
+14. TBD
 15. Nonlinear Models
 16. Grid Search and Parameter Selection
 17. Bringing it Together
@@ -79,11 +83,36 @@ Project Schedule
 | 2/5  | Formal Proposals (including ***data*** and methods chosen) | |
 | 2/10 | Homework 2 Assigned|                                  |
 | 2/12 |            | EiR Feedback on Formal Proposals |
-| 2/17 | Homework 2 Due and <br>**Project Elevator Pitch in class (4 minutes each)** | | 
-| 2/19 | Homework 3 Assigned | Project Live on Github | |
+| 2/17 | Homework 2 Due | | 
+| 2/19 | Homework 3 Assigned  and <br>**Project Elevator Pitch in class (4 minutes each)** | Project Live on Github | |
 | 2/24 | Homework 3 Due | EiR Feedback on Homework 2 |
 | 2/26 | Peer Feedback of Projects   | Peer Feedback on Project    |
 | 3/3  | Peer Feedback of Homework 3 | Peer Feedback on Homework 3 |
 | 3/10 | ***Midterm Assessment Due*** | |
 | 3/17 | At least one working model | |
 | 3/24-26 | **Final Presentations (12 minutes each)** | Midterm Graded |
+
+Student Project Repos:
+----------------------
+| Student | Repo |
+| Ajay	Anand	| [sryballin/GeneralAssembly-DS](https://github.com/skyballin/GeneralAssembly-DS) |
+| Zachary	Cousens	| [zfcousens/DAT_SF_12/tree/gh-pages/Project](http://github.com/zfcousens/DAT_SF_12/tree/gh-pages/Project) |
+| Carmen	Diaz Echauri	| [cde/?](http://github.com/cde/?) |
+| Deepthi	Duddempudi	| [DeepthiGA/Project](http://github.com/DeepthiGA/Project) |
+| Vijay	Duraipalam	| [coolcalguy/DAT_SF_12/tree/gh-pages/Project](http://github.com/coolcalguy/DAT_SF_12/tree/gh-pages/Project) |
+| Cheong-tseng	Eng	| [ctteng/GA-Proj-GPSAnomalyDetection.git](http://github.com/ctteng/GA-Proj-GPSAnomalyDetection.git) |
+| David	Feng	| [selwyth/neighborhood](http://github.com/selwyth/neighborhood) |
+| Isabel	Friedman	| [isabitz/whales](http://github.com/isabitz/whales) |
+| Dave	Halvorson 	| [git-halvorson/DAT_SF_12/tree/gh-pages/FinalProject](http://github.com/git-halvorson/DAT_SF_12/tree/gh-pages/FinalProject) |
+| Alison	Harmon	| [alharmon13/DAT_SF_12/tree/gh-pages/project](http://github.com/alharmon13/DAT_SF_12/tree/gh-pages/project) |
+| Markus	Huber	| [mbhuber/USconsumers](http://github.com/mbhuber/USconsumers) |
+| Ryan 	Hughes	| [cryhughes/AVS-Kaggle](http://github.com/cryhughes/AVS-Kaggle) |
+| Tania	Ibanez	| [positiveepsilon/GA_Project](http://github.com/positiveepsilon/GA_Project) |
+| Roxana	Ordonez	| [rockyroxana/bike-share-forecast.git](http://github.com/rockyroxana/bike-share-forecast.git) |
+| Justin	Peterson	| [justinrpeterson/?](http://github.com/justinrpeterson/?) |
+| April 	Song	| [khsong92/ga_ds](http://github.com/khsong92/ga_ds) |
+| India	Swearingen	| [iswearingen/DAT_SF_12/blob/gh-pages/Homework/Project-IS-load-data.ipynb](https://github.com/iswearingen/DAT_SF_12/blob/gh-pages/Homework/Project-IS-load-data.ipynb) |
+| Bing	Wang	| [bingbingboo/DAT_SF_12/blob/gh-pages/Homework/2014flightdatalab.ipynb](http://github.com/bingbingboo/DAT_SF_12/blob/gh-pages/Homework/2014flightdatalab.ipynb) |
+| Jaime	Williams	| [jawilliams3000/OaklandCrime](http://github.com/jawilliams3000/OaklandCrime) |
+| David	Yerrington	| [dyerrington/Rapstats](http://github.com/dyerrington/Rapstats) |
+| Matt  Jones   | [jonesmatt415/NCAA-Prediction-Project-](https://github.com/jonesmatt415/NCAA-Prediction-Project-) | 
