@@ -91,7 +91,7 @@ Project Schedule
 | 2/24 |  | Homework 3 Assigned |
 | 2/26 | Peer Feedback of Projects   | Peer Feedback on Project    |
 | 3/3  |  | Midterm Assessment Posted|
-| 3/10 | ***Midterm Assessment Due*** | |
+| 3/12 | ***Midterm Assessment Due*** | |
 | 3/17 | At least one working model | |
 | 3/24-26 | **Final Presentations (12 minutes each)** | Midterm Graded |
 
