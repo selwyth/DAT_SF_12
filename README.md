@@ -54,6 +54,7 @@ Tentative Course Outline
 10. Logistic Regression and Generlized Linear Models
 	- [Logistic Regression in Python](http://blog.yhathq.com/posts/logistic-regression-and-python.html)
 	- [Explaining Odds Ratios](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/)
+	- [GLM for Poisson Data](http://www.biostat.umn.edu/~dipankar/bmtry711.11/lecture_13.pdf)
 11. Project Elevator Pitches
 	- See _Student Project Repos_ below
 12. Naïve Bayes, Cross Validation, ROC, AUC & Midterm Review - Part I
